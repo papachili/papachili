@@ -21,6 +21,7 @@ My name is Piotr, I'm Test Developer & QA Enthusiast from Szczecin, Poland
 
 <h3 align="left">Automation & Testing Tools</h3>
 <a href="https://smartbear.com/product/testcomplete/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/38893780?s=280&v=4" alt="testcomplete" width="40" height="40"/> </a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" alt="playwright" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.ni.com/docs/en-US/bundle/teststand/page/introduction-to-teststand.html" target="_blank" rel="noreferrer"> <img src="https://ni.scene7.com/is/image/ni/TestStand_BG?$ni-icon-pm$" alt="teststand" width="40" height="40"/> </a>
